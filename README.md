@@ -3,8 +3,7 @@
 
 ### Hi I'm Ocean 👋
 
-<!--
-一个菜菜的安全研究者
+一个菜菜的安全研究
 新Blog：https://oceansec.github.io
 旧Blog：https://oceansec.blog.csdn.net
--->
+
